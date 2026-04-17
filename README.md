@@ -12,7 +12,7 @@ It allows users to create laundry orders, track their status, and view real-time
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laundry-app.git
+git clone https://github.com/SaumyaMishra6424/laundry-app
 cd laundry-app
 ```
 
