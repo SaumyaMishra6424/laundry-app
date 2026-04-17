@@ -10,10 +10,7 @@ function App() {
   const [user, setUser] = useState(null);
   
 
-  useEffect(() => {
-    document.body.className = theme;
-  }, [theme]);
-
+  
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       setUser(currentUser);
