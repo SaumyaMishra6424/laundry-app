@@ -129,7 +129,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-👉 https://laundry-app-git-main-saumya-mishras-projects-79140157.vercel.app/
+👉https://laundry-erxqsr661-saumya-mishras-projects-79140157.vercel.app?_vercel_share=kDTa2kUAyb0zNfKIV41nZHMAuoKsBp9e
 
 ---
 
