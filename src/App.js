@@ -8,7 +8,7 @@ import Auth from "./components/Auth";
 
 function App() {
   const [user, setUser] = useState(null);
-  const [theme, setTheme] = useState("light");
+  
 
   useEffect(() => {
     document.body.className = theme;
