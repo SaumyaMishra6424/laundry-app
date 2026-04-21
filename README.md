@@ -76,48 +76,6 @@ npm run build
 
 * Used Firebase `onSnapshot` for instant UI updates
 
-### 🔹 UI/UX Enhancements
-
-* Responsive design (mobile + desktop)
-* Success confirmation screen after order submission
-* Clean product card layout
-
----
-
-## 🤖 AI Usage Report
-
-### 🔹 Tools Used
-
-* ChatGPT (for debugging)
-
-
----
-
-### 🔹 Sample Prompts Used
-
-* "Fix Firebase real-time update issue in React"
-* "Create responsive order form UI like Swiggy/Zomato"
-* "How to deploy React app on Vercel with environment variables"
-* "Convert Firebase config to .env format"
-
----
-
-### 🔹 What AI Got Wrong
-
-* Initially mixed **Vite and CRA environment variables**
-* Suggested incorrect Git setup (caused submodule issue)
-* Needed corrections for Firebase real-time logic
-
----
-
-### 🔹 Improvements Made Manually
-
-* Fixed environment variable setup for CRA
-* Implemented proper real-time updates using `onSnapshot`
-* Improved UI layout and responsiveness
-* Structured components for better readability
-
----
 
 ## 🛠️ Tech Stack
 
